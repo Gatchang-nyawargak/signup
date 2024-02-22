@@ -1,0 +1,45 @@
+#form{
+    border: solid 1px;
+    padding: 24px;
+    width: 80%;
+    margin: auto;
+}
+.input{
+    padding: 12px 14px;
+    width: 60%;
+    border: solid 1px;
+
+}
+.icons{
+    display:inline-flex;
+    justify-self: flex-end;
+
+
+    }
+    #button{
+        padding: 24px;
+        border: soli rgb(14, 2, 2);
+        color: black;
+    }
+
+#forms{
+    border: solid 1px;
+    padding: 24px;
+    width: 80%;
+    margin: auto;
+}
+.input{
+    padding: 12px 14px;
+    width: 60%;
+    border: solid 1px;
+
+}
+
+    button{
+        padding: 14px 12 px;
+        border: solid 1px plum;
+        width: 20%;
+    }
+    .input{
+        
+    }
